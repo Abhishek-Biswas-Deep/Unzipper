@@ -1,0 +1,23 @@
+Test 00 - 09: Problem 1
+00: Hello World!
+01: One char table
+02: Two char table
+03: 4 bit encodings
+04: 5 bit encodings
+05: 8 bit encodings
+06: 9 bit encodings
+07: 12 bit encodings
+08: Stress test 1
+09: Stress test 2
+
+Test 10 - 19: Problem 2
+10: Hello World!
+11: One char table
+12: Two char table
+13: 4 bit encodings
+14: 5 bit encodings
+15: 8 bit encodings
+16: 9 bit encodings
+17: 12 bit encodings
+18: Stress test 1
+19: Stress test 2
